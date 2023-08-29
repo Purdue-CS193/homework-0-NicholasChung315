@@ -19,7 +19,8 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. Lists
+2. List
+3. Nicholas Chung
 
 **Bold** and _Italic_ and `Code` text
 
